@@ -8,11 +8,13 @@ Every coin will have own colour
 
 Challenge is to show properly trending change.
 
-description of router.json
+
 
 Setup
 going through this https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX
 download driver https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 git clone https://github.com/themadinventor/esptool.git 
 
+
+description of router.json
 SRC IP | DST IP | Bytes | Packets | ignore | ignore
