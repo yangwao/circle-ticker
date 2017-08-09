@@ -6,3 +6,6 @@ Idea is to show trending change (24h) from https://coinmarketcap.com/
 Every coin will have own colour
 
 Challenge is to show properly trending change.
+
+description of router.json
+SRC IP | DST IP | Bytes | Packets | ignore | ignore
